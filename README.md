@@ -239,7 +239,9 @@ exemplo:
 11101
 ```
 
-3.  | Decimal | Binário |
+3.
+
+  | Decimal | Binário |
     | ------- | ------- |
     | 0       | 0000    |
     | 1       | 0001    |
