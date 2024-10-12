@@ -1,4 +1,4 @@
-# <div style="display: flex; justify-content: space-between;">Exercícios de conversões entre sistemas[![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)</div>
+# Exercícios de conversões entre sistemas &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
 1. Converta os seguintes números de binário para decimal:
 
