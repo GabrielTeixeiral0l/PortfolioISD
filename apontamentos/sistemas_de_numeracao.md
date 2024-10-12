@@ -1,4 +1,4 @@
-# <div style="display: flex; justify-content: space-between;">Sistemas de numeração[![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)</div>
+# Sistemas de numeração &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
 Existem diversos sistemas de numeração, os mais importantes são:
 
