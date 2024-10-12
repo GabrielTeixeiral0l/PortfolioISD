@@ -1,4 +1,4 @@
-# <div style="display: flex; justify-content: space-between;">Arquitetura de Von-Neumann[![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)</div>
+# Arquitetura de Von-Neumann &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
 A **arquitetura de Von Neumann** é caracterizada por quatro componentes principais:
 
