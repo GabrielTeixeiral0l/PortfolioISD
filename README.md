@@ -47,7 +47,7 @@ O portfolio está dividido, como é possível observar no indice, por três prin
 
 ### Outros
 
-###### Curiosidades
+##### Curiosidades
 
 [![Origem da expressão bug](https://img.shields.io/badge/Origem%20da%20expressão%20"Bug"-28A745?style=for-the-badge)](outros/origem_da_palavra_bug.md)
 
