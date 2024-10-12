@@ -1,4 +1,4 @@
-# <div style="display: flex; justify-content: space-between;">Computador[![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)</div>
+# Computador &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
 Um computador é uma máquina eletronica responsável por realizar diversas tarefas de acordo com um conjunto de instruções. É composto por duas partes essenciais:
 
