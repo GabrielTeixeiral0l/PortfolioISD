@@ -1,4 +1,4 @@
-# <div style="display: flex; justify-content: space-between;">Sistema [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)</div>
+# Sistema &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
 - Um **sistema** é um conjunto de dispositivos/componentes que são interligados, para desempenharem uma determinada função.
 - Um **sistema digital** é uma combinação de dispositivos/componentes, projetado para manipular grandezas físicas representadas em formato digital.
