@@ -1,13 +1,13 @@
-# Portfolio de Introdução a Sistemas digitais
+ Portfolio de Introdução a Sistemas Digitais
 
-Este documento é composto por um portfolio, onde estão disponibilizadas a análise, resumo, comentário sobre cada uma das aulas da unidade curricular ISD (Introdução a Sistemas Digitais). Aqui também estará disponivel os meus apontamentos e exercicios resolvidos.
+Este portfólio documenta as aulas, apontamentos e exercícios da unidade curricular de Introdução a Sistemas Digitais (ISD), organizados de forma clara para facilitar o estudo e revisão.
 
-O portfolio está dividido, como é possível observar no indice, por três principais partes:
+O portfólio está dividido em quatro partes principais:
 
-- **Aulas** onde está apenas a análise/comentário sobre cada aula;
-- **Apontamentos** onde estão os apontamentos divididos por matéria
-- **Fichas** onde estão as fichas resolvidas
-- **Outros** aqui guardo ferramentas importantes, curiosidades, etc.
+- **Aulas**: Análise detalhada de cada aula da unidade curricular.
+- **Apontamentos**: Resumo dos principais conteúdos teóricos abordados.
+- **Fichas**: Exercícios resolvidos, organizados por temas.
+- **Outros**: Ferramentas, curiosidades e conteúdos adicionais para expandir o conhecimento.
 
 ## Indice
 
@@ -30,9 +30,8 @@ O portfolio está dividido, como é possível observar no indice, por três prin
 
 ### Apontamentos
 
-[![Sistema Digital](https://img.shields.io/badge/Sistema%20Digital-blue?style=for-the-badge)](apontamentos/sistema_digital.md) <br>
-
-[![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-blue?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md)
+[![Sistema Digital](https://img.shields.io/badge/Sistema%20Digital-28A745?style=for-the-badge)](apontamentos/sistema_digital.md) <br>
+[![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md)
 
 ### Fichas
 
@@ -49,9 +48,11 @@ O portfolio está dividido, como é possível observar no indice, por três prin
 
 ##### Curiosidades
 
-[![Origem da expressão bug](https://img.shields.io/badge/Origem%20da%20expressão%20"Bug"-28A745?style=for-the-badge)](outros/origem_da_palavra_bug.md)
+[![Origem da expressão bug](https://img.shields.io/badge/Origem%20da%20expressão%20"Bug"-purple?style=for-the-badge)](outros/origem_da_palavra_bug.md)
 
 ##### Conteúdos adicionais
 
-[![O que é um Computador?](https://img.shields.io/badge/O%20que%20é%20um%20Computador-28A745?style=for-the-badge)](outros/computador.md) <br>
-[![Modelo Von-Neumann](https://img.shields.io/badge/Modelo%20Von--Neumann-28A745?style=for-the-badge)](outros/modelo_Von-Neumann.md)
+[![O que é um Computador?](https://img.shields.io/badge/O%20que%20é%20um%20Computador-purple?style=for-the-badge)](outros/computador.md) <br>
+[![Modelo Von-Neumann](https://img.shields.io/badge/Modelo%20Von--Neumann-purple?style=for-the-badge)](outros/modelo_Von-Neumann.md)
+
+---
