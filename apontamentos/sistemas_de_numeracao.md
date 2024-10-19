@@ -60,7 +60,7 @@ exemplo:
 
 ![Imagem conversão de decimal para binario](../img/exconversao_decimal_binario.png)
 
-[Exercicios de conversões entre sistema decimal e binário](fichas/conversoes_binario_decimal.md)
+[Exercicios de conversões entre sistema decimal e binário](/fichas/sistemas_numeracao/conversoes_binario_decimal.md)
 
 #### Valores com parte fracionária
 
@@ -136,4 +136,4 @@ Exemplo:
 
 - Transformar para binário e de seguida para Octal
 
-[Exercícios de conversões](fichas/conversoes.md)
+[Exercícios de conversões](/fichas/sistemas_numeracao/conversoes.md)

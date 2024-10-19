@@ -24,14 +24,14 @@ O portfólio está dividido em quatro partes principais:
 #### Outubro 2024
 
 [![Aula 2 - 04-10-2024](https://img.shields.io/badge/Aula%202-04--10--2024-blue?style=for-the-badge)](aulas/04-10-2024.md) <br>
-[![Aula 3 - 11-10-2024](https://img.shields.io/badge/Aula%203-11--10--2024-blue?style=for-the-badge)](aulas/11-10-2024.md)
-
----
+[![Aula 3 - 11-10-2024](https://img.shields.io/badge/Aula%203-11--10--2024-blue?style=for-the-badge)](aulas/11-10-2024.md) <br>
+[![Aula 4 - 18-10-2024](https://img.shields.io/badge/Aula%204-18--10--2024-blue?style=for-the-badge)](aulas/18-10-2024.md) <br>
 
 ### Apontamentos
 
 [![Sistema Digital](https://img.shields.io/badge/Sistema%20Digital-28A745?style=for-the-badge)](apontamentos/sistema_digital.md) <br>
-[![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md)
+[![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md) <br>
+[![Álgebra de Boole](https://img.shields.io/badge/Álgebra%20de%20Boole-28A745?style=for-the-badge)](apontamentos/algebra_de_boole.md) <br>
 
 ### Fichas
 
@@ -39,8 +39,15 @@ O portfólio está dividido em quatro partes principais:
 
 #### Sistemas de numeração
 
-[![Conversões entre Decimal e Binário](https://img.shields.io/badge/Conversões-Decimal--Binário-orange?style=for-the-badge)](fichas/conversoes_binario_decimal.md) <br>
-[![Conversões entre Sistemas de Numeração](https://img.shields.io/badge/Conversões-Principais%20Sistemas%20de%20Numeração-orange?style=for-the-badge)](fichas/conversoes.md)
+[![Conversões entre Decimal e Binário](https://img.shields.io/badge/Conversões-Decimal--Binário-orange?style=for-the-badge)](fichas/sistemas_numeracao/conversoes_binario_decimal.md) <br>
+[![Conversões entre Sistemas de Numeração](https://img.shields.io/badge/Conversões-Principais%20Sistemas%20de%20Numeração-orange?style=for-the-badge)](fichas/sistemas_numeracao/conversoes.md)
+
+---
+
+#### Álgebra de Boole
+
+[![Simplificação de expressões](https://img.shields.io/badge/Simplificações-Execícios-orange?style=for-the-badge)](fichas/algebra_de_boole/exercicios.md) <br>
+[![Ficha de trabalho - Simplificação de expressões](https://img.shields.io/badge/Simplificações-Ficha%20de%20Trabalho-orange?style=for-the-badge)](fichas/algebra_de_boole/ficha%20de%20trabalho.md)
 
 ---
 
