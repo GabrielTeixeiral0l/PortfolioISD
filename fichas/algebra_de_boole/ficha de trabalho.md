@@ -82,8 +82,10 @@ A . C' + A . B . A' + A . B . C . A + B . B . C' + B . A'
 	= BA' + BA'C + BC + AC
 	= BA' +BC(A + 1) + AC
 	= BA' + BC + AC
-``` 	
-	NOTA:
+```
+
+NOTA:
+ 
 ```
 (A + B) . A' . B = A . A'B  + B . A'B = 0 B + BA' = BA'
 (A + B) . A' . C = A. A'C + B . A'C = 0 B + BA'C = BA'C
@@ -105,7 +107,7 @@ A . C' + A . B . A' + A . B . C . A + B . B . C' + B . A'
 	(A + B) . (A' + C) =
 		= AA' + AC + BA' + BC
 		= 0 + AC + BA' + BC
-		= **AC + BA' + BC**
+		= AC + BA' + BC
 		
 	(A + B) . (B + C) . (A' + C . (B + C))
 		= (AB + AC + BB + BC) . (A' + C . (B + C))
@@ -114,6 +116,6 @@ A . C' + A . B . A' + A . B . C . A + B . B . C' + B . A'
 		= 0 + 0 + BA' + BCA' + ABC + AC + BC + BC 
 		= BA' + BCA' + ABC + AC + BC 
 		= BA' + AC + BC
-		= **AC + BA' + BC**
+		= AC + BA' + BC
 	
 ``` 
