@@ -72,7 +72,7 @@ A . C' + A . B . A' + A . B . C . A + B . B . C' + B . A'
 	= AB + CA + CBC
  ``` 
 2. Demonstre que  (A + B) . (A' + C) = (A + B) . (A' + C) . (B + C)
-   ``` 
+``` 
 	(A + B) . (A' + C) . (B + C) =
 		= (A + B)  (A' . B + A' . C + C . B + C . C)
 		= (A + B)  (A' . B + A' . C + C . B + C)
@@ -80,9 +80,9 @@ A . C' + A . B . A' + A . B . C . A + B . B . C' + B . A'
 		= BA' + BA'C + BC + AC
 		= BA' +BC(A + 1) + AC
 		= BA' + BC + AC
- 	``` 	
+``` 	
 	NOTA:
-	```
+```
 	(A + B) . A' . B = A . A'B  + B . A'B = 0 B + BA' = BA'
 	(A + B) . A' . C = A. A'C + B . A'C = 0 B + BA'C = BA'C
 	(A + B) . CB = ACB + BCB = ACB + BC = CB (A + 1) = CB
