@@ -70,7 +70,8 @@ A . C' + A . B . A' + A . B . C . A + B . B . C' + B . A'
 	= ABA + ABB + CA + CB . C
 	= AB + AB + CA + CB . C
 	= AB + CA + CBC
- ``` 
+``` 
+
 2. Demonstre que  (A + B) . (A' + C) = (A + B) . (A' + C) . (B + C)
 ``` 
 	(A + B) . (A' + C) . (B + C) =
