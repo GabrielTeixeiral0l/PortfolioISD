@@ -65,6 +65,9 @@ O portfólio está dividido em quatro partes principais:
 ### Outros
 
 ---
+##### Ferramentas
+
+[![Logicly - Plataforma de Portas Lógicas](https://img.shields.io/badge/Logicly%20-%20Ferramenta%20de%20Portas%20Lógicas-purple?style=for-the-badge)](https://logic.ly/demo/)
 
 ##### Curiosidades
 
