@@ -10,6 +10,9 @@ A operação OR, também conhecida como **soma lógica**, retorna o valor 1 quan
 - **Expressão matemática:** $S=A+B$
 - **Descrição:** Retorna 1 se $A$ ou $B$ forem 1.
 
+![image](https://github.com/user-attachments/assets/0dea5375-0be4-4af3-be42-6f2ce80f382f)
+
+
 **Tabela de Verdade:**
 | A | B | S (A + B) |
 |---|---|-----------|
