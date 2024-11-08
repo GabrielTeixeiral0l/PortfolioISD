@@ -19,7 +19,6 @@ O portfólio está dividido em quatro partes principais:
 
 [![Aula 1 - 27-09-2024](https://img.shields.io/badge/Aula%201-27--09--2024-blue?style=for-the-badge)](aulas/27-09-2024.md)
 
----
 
 #### Outubro 2024
 
@@ -28,7 +27,6 @@ O portfólio está dividido em quatro partes principais:
 [![Aula 4 - 18-10-2024](https://img.shields.io/badge/Aula%204-18--10--2024-blue?style=for-the-badge)](aulas/18-10-2024.md) <br>
 [![Aula 5 - 25-10-2024](https://img.shields.io/badge/Aula%205-25--10--2024-blue?style=for-the-badge)](aulas/25-10-2024.md) <br>
 
----
 
 #### Novembro 2024
 
@@ -46,7 +44,6 @@ O portfólio está dividido em quatro partes principais:
 [![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md) <br>
 [![Álgebra de Boole](https://img.shields.io/badge/Álgebra%20de%20Boole-28A745?style=for-the-badge)](apontamentos/algebra_de_boole.md) <br>
 
----
 
 ### Fichas
 
@@ -64,9 +61,11 @@ O portfólio está dividido em quatro partes principais:
 [![Simplificação de expressões](https://img.shields.io/badge/Simplificações-Execícios-orange?style=for-the-badge)](fichas/algebra_de_boole/exercicios.md) <br>
 [![Ficha de trabalho - Simplificação de expressões](https://img.shields.io/badge/Simplificações-Ficha%20de%20Trabalho-orange?style=for-the-badge)](fichas/algebra_de_boole/ficha%20de%20trabalho.md)
 
----
+
 
 ### Outros
+
+---
 
 ##### Curiosidades
 
