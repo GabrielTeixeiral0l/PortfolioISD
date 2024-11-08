@@ -22,8 +22,6 @@ A operação NOT, também conhecida como **negação** ou **complemento**, inver
 - **Expressão matemática:** $S=\overline{A}$
 - **Descrição:** Se $A=1$, então $S=0$ e vice-versa.
 
----
-
 ## Portas Lógicas
 
 ### 1. Porta NAND
