@@ -48,7 +48,6 @@ A porta XNOR é a **porta XOR com a saída invertida**. Retorna 1 se **ambas as 
 - **Expressão matemática:** $S=\overline{A\oplus B}$
 - **Descrição:** Retorna 1 se $A$ e $B$ forem ambos 0 ou ambos 1.
 
----
 
 ## Tabela Resumo das Operações e Portas Lógicas
 
