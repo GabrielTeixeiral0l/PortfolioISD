@@ -117,4 +117,3 @@ A porta XNOR é a **porta XOR com a saída invertida**. Retorna 1 se **ambas as 
 | 1   | 0   | 0                        |
 | 1   | 1   | 1                        |
 
----
