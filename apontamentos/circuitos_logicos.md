@@ -57,12 +57,12 @@ A operação NOT, também conhecida como **negação** ou **complemento**, inver
 ### 1. Porta NAND
 A porta NAND realiza uma operação **NOT AND**. A saída é 1 exceto quando **ambas as entradas** são 1.
 
-- **Expressão matemática:** $S=\neg{A\cdot B}$
+- **Expressão matemática:** $S=\neg(A\cdot B)$
 - **Descrição:** Retorna 1, a menos que $A$ e $B$ sejam ambos 1.
 
 **Tabela de Verdade:
 
-| A   | B   |  $S=\overline{A\cdot B}$ |
+| A   | B   |  $S=\neg(A\cdot B)$ |
 | --- | --- | ------------------------ |
 | 0   | 0   | 1                        |
 | 0   | 1   | 1                        |
@@ -73,12 +73,12 @@ A porta NAND realiza uma operação **NOT AND**. A saída é 1 exceto quando **a
 ### 2. Porta NOR
 A porta NOR realiza uma operação **NOT OR**. A saída é 1 apenas quando **todas as entradas** são 0.
 
-- **Expressão matemática:** $S=\overline{A+B}$
+- **Expressão matemática:** $S=\neg(A+B)$
 - **Descrição:** Retorna 1 apenas se $A$ e $B$ forem ambos 0.
 
 **Tabela de Verdade:**
 
-| A   | B   | $S=\overline{A+B}$ |
+| A   | B   | $S=\neg(A+B)$ |
 | --- | --- | ------------------ |
 | 0   | 0   | 1                  |
 | 0   | 1   | 0                  |
@@ -105,12 +105,12 @@ A porta XOR retorna o valor 1 apenas se **um número ímpar de entradas** for 1.
 ### 4. Porta XNOR
 A porta XNOR é a **porta XOR com a saída invertida**. Retorna 1 se **ambas as entradas forem iguais**.
 
-- **Expressão matemática:** $S=\overline{A\oplus B}$
+- **Expressão matemática:** $S=\neg(A\oplus B)$
 - **Descrição:** Retorna 1 se $A$ e $B$ forem ambos 0 ou ambos 1.
 
 **Tabela de Verdade:**
 
-| A   | B   | $S=\overline{A\oplus B}$ |
+| A   | B   | $S=\neg(A\oplus B)$ |
 | --- | --- | ------------------------ |
 | 0   | 0   | 1                        |
 | 0   | 1   | 0                        |
