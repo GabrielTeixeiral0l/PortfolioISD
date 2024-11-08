@@ -92,8 +92,8 @@ Porta Lógica NAND
 8. Através de um browser da internet aceda ao link: http://logic.ly/demo/ 
 8.1. Coloque duas lâmpadas a funcionar intermitentemente de forma intercalada (quando uma está acesa a outra está apagada). 
 	
-![[Pasted image 20241108152433.png]]
+![ex 8.1](../img/ex8_1_tarefa3.png)
 	
 8.2. Coloque no sistema desenvolvido no ponto anterior (8.1 um interruptor de forma a poder ligar ou desligar o sistema.
 
-![[Pasted image 20241108154740.png]]
+![ex 8.2](../img/ex8_2_tarefa3.png)
