@@ -57,7 +57,7 @@ A operação NOT, também conhecida como **negação** ou **complemento**, inver
 ### 1. Porta NAND
 A porta NAND realiza uma operação **NOT AND**. A saída é 1 exceto quando **ambas as entradas** são 1.
 
-- **Expressão matemática:** $S=\overline{A\cdot B}$
+- **Expressão matemática:** $S=\overline{A\cdot B}\$
 - **Descrição:** Retorna 1, a menos que $A$ e $B$ sejam ambos 1.
 
 **Tabela de Verdade:
