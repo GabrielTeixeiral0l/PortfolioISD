@@ -20,6 +20,7 @@ Quando os sinais de entradas são todos 1 ("alto").
 Quando pelo menos um dos sinais de entrada é 1 ("alto").
 
 6. Identifique cada uma das portas lógicas e escreva para cada uma as respetivas tabelas de verdade e expressão booleana.
+
 a)
 Porta Lógica OR
 
