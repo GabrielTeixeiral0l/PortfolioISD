@@ -49,7 +49,8 @@ A operação NOT, também conhecida como **negação** ou **complemento**, inver
 - **Expressão matemática:** $S=\overline{A}$
 - **Descrição:** Se $A=1$, então $S=0$ e vice-versa.
 
-![image](https://github.com/user-attachments/assets/be5b4488-bd46-4c87-9b00-6873b2dcddac)
+![image](https://github.com/user-attachments/assets/80d6ff69-6136-46fc-992d-ceb71814d409)
+
 
 
 **Tabela de Verdade:**
