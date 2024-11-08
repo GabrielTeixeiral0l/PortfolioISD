@@ -40,9 +40,13 @@ O portfólio está dividido em quatro partes principais:
 
 ### Apontamentos
 
+---
+
 [![Sistema Digital](https://img.shields.io/badge/Sistema%20Digital-28A745?style=for-the-badge)](apontamentos/sistema_digital.md) <br>
 [![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md) <br>
 [![Álgebra de Boole](https://img.shields.io/badge/Álgebra%20de%20Boole-28A745?style=for-the-badge)](apontamentos/algebra_de_boole.md) <br>
+
+---
 
 ### Fichas
 
