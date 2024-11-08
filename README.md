@@ -60,7 +60,10 @@ O portfólio está dividido em quatro partes principais:
 [![Simplificação de expressões](https://img.shields.io/badge/Simplificações-Execícios-orange?style=for-the-badge)](fichas/algebra_de_boole/exercicios.md) <br>
 [![Ficha de trabalho - Simplificação de expressões](https://img.shields.io/badge/Simplificações-Ficha%20de%20Trabalho-orange?style=for-the-badge)](fichas/algebra_de_boole/ficha%20de%20trabalho.md)
 
+#### Circuitos Lógicos
 
+[![Conceitos-Ficha de trabalho 1](https://img.shields.io/badge/Conceitos-Ficha%20de%20trabalho%201-orange?style=for-the-badge)](fichas/portas_logicas/ficha%20de%20trabalho%201.md) <br>
+[![Circuitos Lógicos-Ficha de trabalho 2](https://img.shields.io/badge/Circuitos%20Lógicos-Ficha%20de%20trabalho%202-orange?style=for-the-badge)](fichas/portas_logicas/ficha%20de%20trabalho%202.md) <br>
 
 ### Outros
 
