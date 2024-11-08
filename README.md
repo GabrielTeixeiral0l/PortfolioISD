@@ -54,7 +54,7 @@ O portfólio está dividido em quatro partes principais:
 [![Conversões entre Decimal e Binário](https://img.shields.io/badge/Conversões-Decimal--Binário-orange?style=for-the-badge)](fichas/sistemas_numeracao/conversoes_binario_decimal.md) <br>
 [![Conversões entre Sistemas de Numeração](https://img.shields.io/badge/Conversões-Principais%20Sistemas%20de%20Numeração-orange?style=for-the-badge)](fichas/sistemas_numeracao/conversoes.md)
 
----
+***
 
 #### Álgebra de Boole
 
