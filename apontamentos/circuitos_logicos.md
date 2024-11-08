@@ -10,7 +10,7 @@ A operação OR, também conhecida como **soma lógica**, retorna o valor 1 quan
 - **Expressão matemática:** $S=A+B$
 - **Descrição:** Retorna 1 se $A$ ou $B$ forem 1.
 
-![image](https://github.com/user-attachments/assets/0dea5375-0be4-4af3-be42-6f2ce80f382f)
+![Imagem Porta Lógica OR](../img/gor.png)
 
 
 **Tabela de Verdade:**
@@ -29,7 +29,7 @@ A operação AND, também conhecida como **produto lógico**, retorna o valor 1 
 - **Expressão matemática:** $S=A\cdot B$
 - **Descrição:** Retorna 1 apenas se $A$ e $B$ forem ambos 1.
 
-![image](https://github.com/user-attachments/assets/d2fbc75c-6639-40cd-a81d-0bff4a72e3f6)
+![Imagem Porta Lógica AND](../img/gand.png)
 
 
 **Tabela de Verdade:**
@@ -49,8 +49,7 @@ A operação NOT, também conhecida como **negação** ou **complemento**, inver
 - **Expressão matemática:** $S=\overline{A}$
 - **Descrição:** Se $A=1$, então $S=0$ e vice-versa.
 
-![image](https://github.com/user-attachments/assets/80d6ff69-6136-46fc-992d-ceb71814d409)
-
+![Imagem Porta Lógica NOT](../img/gnot.png)
 
 
 **Tabela de Verdade:**
@@ -70,7 +69,7 @@ A porta NAND realiza uma operação **NOT AND**. A saída é 1 exceto quando **a
 - **Expressão matemática:** $S=\neg(A\cdot B)$
 - **Descrição:** Retorna 1, a menos que $A$ e $B$ sejam ambos 1.
 
-![image](https://github.com/user-attachments/assets/1c615348-e34b-4c6e-9390-a7b0a9f84cdf)
+![Imagem Porta Lógica NAND](../img/gnand.png)
 
 
 **Tabela de Verdade:
@@ -89,7 +88,7 @@ A porta NOR realiza uma operação **NOT OR**. A saída é 1 apenas quando **tod
 - **Expressão matemática:** $S=\neg(A+B)$
 - **Descrição:** Retorna 1 apenas se $A$ e $B$ forem ambos 0.
 
-![image](https://github.com/user-attachments/assets/b15b2ce4-5dac-4123-964d-a960cc28959c)
+![Imagem Porta Lógica NOR](../img/gnor.png)
 
 
 **Tabela de Verdade:**
@@ -108,7 +107,7 @@ A porta XOR retorna o valor 1 apenas se **um número ímpar de entradas** for 1.
 - **Expressão matemática:** $S=A\oplus B$
 - **Descrição:** Retorna 1 se $A$ e $B$ tiverem valores diferentes.
 
-![image](https://github.com/user-attachments/assets/40648456-b29a-48ce-b3ba-f2e12e989e61)
+![Imagem Porta Lógica XOR](../img/gxor.png)
 
 **Tabela de Verdade:**
 
@@ -126,7 +125,7 @@ A porta XNOR é a **porta XOR com a saída invertida**. Retorna 1 se **ambas as 
 - **Expressão matemática:** $S=\neg(A\oplus B)$
 - **Descrição:** Retorna 1 se $A$ e $B$ forem ambos 0 ou ambos 1.
 
-![image](https://github.com/user-attachments/assets/341a0e0e-61d3-45f7-9d25-1d51f302bc4f)
+![Imagem Porta Lógica XNOR](../img/gxnor.png)
 
 
 **Tabela de Verdade:**
