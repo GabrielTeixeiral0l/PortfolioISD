@@ -53,7 +53,7 @@ A’ . B . C . A . D’ = 0
 
 3. Considere A = 0, B = 1, C =1, D = 1 e E =1, qual é o valor da saída de cada expressão booleana dos pontos 1 e 2?
 
-1.
+1
 
 (A + B) . C  = 1
 
@@ -67,7 +67,7 @@ A’ . B . C . A . D’ = 0
 
 ((A' . B' + C') + D) . E = 1
 
-2.
+2
 
 AC + BC’ + A’BC = 1
 
