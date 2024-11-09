@@ -12,7 +12,7 @@ A’ . C’
 
 A’ + B
 
-![image](https://github.com/user-attachments/assets/e66e5f26-2d93-4eee-8ead-27337bf52b2b)
+![image](https://github.com/user-attachments/assets/04955638-2c4a-4fc5-a500-aeed79ed5415)
 
 
 (A . B) + C
