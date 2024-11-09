@@ -1,3 +1,4 @@
+# Ficha de trabalho - Circuitos Lógicos: Conceitos &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../../README.md#indice)
 
 1. O que é uma porta lógica? 
 
