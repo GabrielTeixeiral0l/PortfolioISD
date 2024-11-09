@@ -81,4 +81,8 @@ O portfólio está dividido em quatro partes principais:
 [![O que é um Computador?](https://img.shields.io/badge/O%20que%20é%20um%20Computador-purple?style=for-the-badge)](outros/computador.md) <br>
 [![Modelo Von-Neumann](https://img.shields.io/badge/Modelo%20Von--Neumann-purple?style=for-the-badge)](outros/modelo_Von-Neumann.md)
 
+#### Videos 
+
+[!Como Reinventar o Computador do Zero](https://img.shields.io/badge/youtube-Como%20Reinventar%20o%20Computador%20do%20Zero-red?style=for-the-badge)](https://youtu.be/BbnDmeNojFA?si=fwtADCmySI0u2Hl5)
+
 ---
