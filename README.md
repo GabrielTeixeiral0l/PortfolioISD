@@ -83,6 +83,6 @@ O portfólio está dividido em quatro partes principais:
 
 #### Videos 
 
-[![Como Reinventar o Computador do Zero](https://img.shields.io/badge/youtube-Como%20Reinventar%20o%20Computador%20do%20Zero-red?style=for-the-badge)](https://youtu.be/BbnDmeNojFA?si=fwtADCmySI0u2Hl5)
+[![Como Reinventar o Computador do Zero](https://img.shields.io/badge/youtube-Como%20Reinventar%20o%20Computador%20do%20Zero-#FF0000?style=for-the-badge)](https://youtu.be/BbnDmeNojFA?si=fwtADCmySI0u2Hl5)
 
 ---
