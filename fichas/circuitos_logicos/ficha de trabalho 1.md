@@ -91,6 +91,7 @@ Porta Lógica NAND
 | 5)       | 0   | 0   | 0   | 0   | 0           |                                         |
 
 8. Através de um browser da internet aceda ao link: http://logic.ly/demo/ 
+
 8.1. Coloque duas lâmpadas a funcionar intermitentemente de forma intercalada (quando uma está acesa a outra está apagada). 
 	
 ![ex 8.1](../../img/ex8_1_tarefa3.png)
