@@ -1,3 +1,5 @@
+# Ficha de trabalho - Circuitos Lógicos &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../../README.md#indice)
+
 1. Escreva as expressões booleanas dos seguintes circuitos.
 
 ![image](https://github.com/user-attachments/assets/adadeb69-740c-4402-8943-03cae10bb2f2)
