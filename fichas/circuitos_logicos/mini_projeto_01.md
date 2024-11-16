@@ -53,13 +53,13 @@ AMBOS SEM A
 
 #### primeira condição (verificar se B e C estão no mesmo depósito)
 
-$\overline{B\oplus C}$
+${(B\oplus C)'}$
 
 ![Pasted image 20241116144219](https://github.com/user-attachments/assets/643b588f-5638-49e5-b1ec-3ed4a9df0769)
 
 #### segunda condição (verificar se A B e C são iguais)
 
-$(\overline{A\oplus B})(\overline{B\oplus C})$
+$({(A\oplus B)'})({(B\oplus C)'})$
 
 ![Pasted image 20241116144416](https://github.com/user-attachments/assets/e47d28b8-40fc-4bd7-8369-ad8a79de61c3)
 
