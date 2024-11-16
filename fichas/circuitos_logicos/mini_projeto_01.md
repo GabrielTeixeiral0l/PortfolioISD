@@ -69,7 +69,7 @@ para a junção das duas condições tive de fazer uma pequena alteração na se
 
 $(({A\oplus B})'({B\oplus C})')'$
 
-$\overline{(\overline{A\oplus B})(\overline{B\oplus C})}(\overline{B\oplus C})$
+$({({A\oplus B})'({B\oplus C})'}({B\oplus C})')$
 
 ![Pasted image 20241116144618](https://github.com/user-attachments/assets/06aad27e-9e90-4101-a4fa-d775afc5a267)
 
