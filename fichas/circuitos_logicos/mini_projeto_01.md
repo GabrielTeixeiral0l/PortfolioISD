@@ -69,7 +69,7 @@ para a junção das duas condições tive de fazer uma pequena alteração na se
 
 $(({A\oplus B})'({B\oplus C})')'$
 
-$({({A\oplus B})'({B\oplus C})'}({B\oplus C})')$
+$((({A\oplus B})'({B\oplus C})')'({B\oplus C})'$
 
 ![Pasted image 20241116144618](https://github.com/user-attachments/assets/06aad27e-9e90-4101-a4fa-d775afc5a267)
 
@@ -87,7 +87,7 @@ $({A\oplus C})'({C\oplus D})'$
 
 Junção das duas condições (terceira e quarta)
 
-$\overline(({A\oplus C})'({C\oplus D})')'({C\oplus D})'$
+$(({A\oplus C})'({C\oplus D})')'({C\oplus D})'$
 
 ![Pasted image 20241116152628](https://github.com/user-attachments/assets/7a4aae77-9ffd-4bd9-a267-58ed81e39567)
 
