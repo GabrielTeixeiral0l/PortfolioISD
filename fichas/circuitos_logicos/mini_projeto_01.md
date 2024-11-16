@@ -59,7 +59,7 @@ ${(B\oplus C)'}$
 
 #### segunda condição (verificar se A B e C são iguais)
 
-$({(A\oplus B)'})({(B\oplus C)'})$
+${(A\oplus B)'}{(B\oplus C)'}$
 
 ![Pasted image 20241116144416](https://github.com/user-attachments/assets/e47d28b8-40fc-4bd7-8369-ad8a79de61c3)
 
@@ -67,7 +67,7 @@ $({(A\oplus B)'})({(B\oplus C)'})$
  
 para a junção das duas condições tive de fazer uma pequena alteração na segunda expressão, para que o valor caso fossem iguais fosse 0.
 
-$\overline{(\overline{A\oplus B})(\overline{B\oplus C})}$
+$(({A\oplus B})'({B\oplus C})')'$
 
 $\overline{(\overline{A\oplus B})(\overline{B\oplus C})}(\overline{B\oplus C})$
 
