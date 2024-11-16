@@ -71,7 +71,8 @@ O portfólio está dividido em quatro partes principais:
 ---
 ##### Ferramentas
 
-[![Boolean Algebra Simplifier - Plataforma de Simplificação de Álgebra de Boole](https://img.shields.io/badge/boolean%20algebra%20-%20Ferramenta%20de%20Simplificação%20de%Álgebra%20de%20Boole-purple?style=for-the-badge)](https://www.boolean-algebra.com/)
+[![Boolean Algebra Simplifier - Plataforma de Simplificação de Álgebra de Boole](https://img.shields.io/badge/boolean%20algebra%20-%20Ferramenta%20de%20Simplificação%20de%20Álgebra%20de%20Boole-purple?style=for-the-badge)](https://www.boolean-algebra.com/)
+<br>
 [![Logicly - Plataforma de Portas Lógicas](https://img.shields.io/badge/Logicly%20-%20Ferramenta%20de%20Portas%20Lógicas-purple?style=for-the-badge)](https://logic.ly/demo/)
 
 ##### Curiosidades
