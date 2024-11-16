@@ -65,6 +65,7 @@ O portfólio está dividido em quatro partes principais:
 [![Conceitos-Ficha de trabalho 1](https://img.shields.io/badge/Conceitos-Ficha%20de%20trabalho%201-orange?style=for-the-badge)](fichas/circuitos_logicos/ficha%20de%20trabalho%201.md) <br>
 [![Circuitos Lógicos-Ficha de trabalho 2](https://img.shields.io/badge/Circuitos%20Lógicos-Ficha%20de%20trabalho%202-orange?style=for-the-badge)](fichas/circuitos_logicos/ficha%20de%20trabalho%202.md) <br>
 [![Circuitos Lógicos-Ficha de trabalho 3](https://img.shields.io/badge/Circuitos%20Lógicos-Ficha%20de%20trabalho%203-orange?style=for-the-badge)](fichas/circuitos_logicos/ficha%20de%20trabalho%203.md) <br>
+[![Circuitos Lógicos-Mini-Projeto 1](https://img.shields.io/badge/Circuitos%20Lógicos-Mini%20projeto%2001-orange?style=for-the-badge)](fichas/circuitos_logicos/mini_projeto_01.md) <br>
 
 ### Outros
 
