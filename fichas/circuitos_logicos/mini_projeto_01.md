@@ -75,19 +75,19 @@ $\overline{(\overline{A\oplus B})(\overline{B\oplus C})}(\overline{B\oplus C})$
 
 terceira condição (verificar se C e D estão no mesmo depósito)
 
-$\overline{C\oplus D}$
+$(C\oplus D)'$
 
 ![Pasted image 20241116145945](https://github.com/user-attachments/assets/175b9d39-d4dd-41b0-a1f3-7c0fb58bfe72)
 
 quarta condição (verificar se A C e D são iguais)
 
-$(\overline{A\oplus C})(\overline{C\oplus D})$
+$({A\oplus C})'({C\oplus D})'$
 
 ![Pasted image 20241116152225](https://github.com/user-attachments/assets/3719a910-8d6c-4cc2-bad6-4bdaf757a925)
 
 Junção das duas condições (terceira e quarta)
 
-$\overline{(\overline{A\oplus C})(\overline{C\oplus D})}(\overline{C\oplus D})$
+$\overline(({A\oplus C})'({C\oplus D})')'({C\oplus D})'$
 
 ![Pasted image 20241116152628](https://github.com/user-attachments/assets/7a4aae77-9ffd-4bd9-a267-58ed81e39567)
 
