@@ -1,3 +1,5 @@
+# Mini Projeto 01 &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../../README.md#indice)
+
 ## exercício 1
 
 1. Consideremos um laboratório que tem armazenado produtos químicos. Nesse armazém, sabemos que existem quatro produtos químicos. Desses, o Produto A, Produto B, Produto C e Produto D devem ser guardados em dois depósitos. Nesse laboratório também se sabe que de vez em quando é necessário mover um ou mais produtos de um depósito para o outro, assim como, atendendo à natureza dos produtos, é perigoso guardar o Produto B e o Produto C juntos, a não ser que o Produto A esteja no mesmo depósito. Para além disso, sabe-se também que é perigoso guardar o Produto C e o Produto D juntos se o Produto A não estiver no depósito. Escreva uma expressão para uma função, S, tal que S = 1 sempre que exista uma combinação perigosa em qualquer dos depósitos. 
