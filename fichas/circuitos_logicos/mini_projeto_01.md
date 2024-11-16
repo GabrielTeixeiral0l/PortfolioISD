@@ -93,7 +93,7 @@ $(({A\oplus C})'({C\oplus D})')'({C\oplus D})'$
 
 CONCLUSÃO
 
-$\overline{(\overline{A\oplus B})(\overline{B\oplus C})}(\overline{B\oplus C})+\overline{(\overline{A\oplus C})(\overline{C\oplus D})}(\overline{C\oplus D})$
+$(({A\oplus C})'({C\oplus D})')'({C\oplus D})' + (({A\oplus B})'({C\oplus C})')'({B\oplus C})'$
 
 ![Pasted image 20241116153045](https://github.com/user-attachments/assets/b024255b-359c-434d-8d6f-6f33773cb688)
 
