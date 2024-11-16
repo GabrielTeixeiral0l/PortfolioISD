@@ -51,6 +51,7 @@ A’B + B’A
 
  
 (F’(CDE’ + ABC)) + F 
+
 9.	Obtenha uma expressão para a função realizada pelo circuito representado:
 
  ![image](https://github.com/user-attachments/assets/8c19479c-8edd-4ee6-8a7e-62097c86167f)
