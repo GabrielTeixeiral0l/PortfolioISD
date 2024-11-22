@@ -44,6 +44,7 @@ O portfólio está dividido em quatro partes principais:
 [![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md) <br>
 [![Álgebra de Boole](https://img.shields.io/badge/Álgebra%20de%20Boole-28A745?style=for-the-badge)](apontamentos/algebra_de_boole.md) <br>
 [![Circuitos Lógicos](https://img.shields.io/badge/Circuitos%20Lógicos-28A745?style=for-the-badge)](apontamentos/circuitos_logicos.md) <br>
+[![Circuitos Integrados](https://img.shields.io/badge/Circuitos%20Integrados-28A745?style=for-the-badge)](apontamentos/circuitos_integrados.md) <br>
 
 ### Fichas
 
@@ -83,7 +84,8 @@ O portfólio está dividido em quatro partes principais:
 ##### Conteúdos adicionais
 
 [![O que é um Computador?](https://img.shields.io/badge/O%20que%20é%20um%20Computador-purple?style=for-the-badge)](outros/computador.md) <br>
-[![Modelo Von-Neumann](https://img.shields.io/badge/Modelo%20Von--Neumann-purple?style=for-the-badge)](outros/modelo_Von-Neumann.md)
+[![Modelo Von-Neumann](https://img.shields.io/badge/Modelo%20Von--Neumann-purple?style=for-the-badge)](outros/modelo_Von-Neumann.md) <br>
+[![Segurança ao disconectar componentes](https://img.shields.io/badge/Segurança%20ao%20disconectar%20componentes-purple?style=for-the-badge)](outros/seguranca_disconectar_componentes.md) <br>
 
 #### Videos 
 
