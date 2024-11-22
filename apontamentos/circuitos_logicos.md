@@ -144,26 +144,32 @@ As **portas lógicas universais** são portas lógicas que podem ser usadas para
 
 - **NOT**: Ligando ambas as entradas ao mesmo sinal.  
   - Fórmula: `NOT A = A NAND A`
+ 
 ![Pasted image 20241122160402](https://github.com/user-attachments/assets/65419577-32ab-4a04-92f9-7852b0145acd)
 
 - **AND**: Porta NAND seguida de um inversor.  
   - Fórmula: `A AND B = (A NAND B) NAND (A NAND B)`
+ 
 ![Pasted image 20241122160517](https://github.com/user-attachments/assets/ae3519f5-3188-4686-bf8f-a578feaa39f4)
 
 - **OR**: Combinando várias portas NAND.  
   - Fórmula: `A OR B = (A NAND A) NAND (B NAND B)`
+ 
 ![Pasted image 20241122160732](https://github.com/user-attachments/assets/aa714a38-d362-4850-9d1a-23e0f620dc3a)
 
 ### 2. Porta NOR 
 
 - **NOT**: Ligando ambas as entradas ao mesmo sinal.  
   - Fórmula: `NOT A = A NOR A`
+ 
 ![Pasted image 20241122160922](https://github.com/user-attachments/assets/f6298b37-cef3-4892-b84e-9d924d4185af)
 
 - **AND**: Combinando várias portas NOR.  
   - Fórmula: `A AND B = (A NOR B) NOR (A NOR B)`
+ 
 ![Pasted image 20241122161244](https://github.com/user-attachments/assets/aa751717-2fee-4aa0-ab83-8ff8815fc7cf)
 
 - **OR**: Porta NOR seguida de um inversor.  
   - Fórmula: `A OR B = (A NOR A) NOR (B NOR B)`
+ 
 ![Pasted image 20241122161514](https://github.com/user-attachments/assets/cbadb9ab-7edd-4e15-bc54-2ff1f1e5604e)
