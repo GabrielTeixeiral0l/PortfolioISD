@@ -1,4 +1,4 @@
-# Circuito Integrado &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
+# Circuitos Integrados &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../README.md#indice)
 
 Um **circuito integrado (CI)** é uma pequena área de material semicondutor (geralmente silício) onde são construídos componentes eletrónicos, como:
 - Transístores
