@@ -167,9 +167,9 @@ As **portas lógicas universais** são portas lógicas que podem ser usadas para
 - **AND**: Combinando várias portas NOR.  
   - Fórmula: `A AND B = (A NOR B) NOR (A NOR B)`
  
-![Pasted image 20241122161244](https://github.com/user-attachments/assets/aa751717-2fee-4aa0-ab83-8ff8815fc7cf)
+![Pasted image 20241122161514](https://github.com/user-attachments/assets/cbadb9ab-7edd-4e15-bc54-2ff1f1e5604e)
 
 - **OR**: Porta NOR seguida de um inversor.  
   - Fórmula: `A OR B = (A NOR A) NOR (B NOR B)`
  
-![Pasted image 20241122161514](https://github.com/user-attachments/assets/cbadb9ab-7edd-4e15-bc54-2ff1f1e5604e)
+![Pasted image 20241122161244](https://github.com/user-attachments/assets/aa751717-2fee-4aa0-ab83-8ff8815fc7cf)
