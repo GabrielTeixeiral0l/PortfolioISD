@@ -58,9 +58,9 @@ Os CIs podem ser classificados de acordo com a quantidade de componentes que int
 O projeto de Sistemas Digitais envolve uma fase inicial de dimensionamento de diagrama lógico com base num conjunto de procedimentos de projeto. 
 - Considere-se o exemplo da implementação da seguinte função:
 
-![[Pasted image 20241122163617.png]]
+![Pasted image 20241122163617](https://github.com/user-attachments/assets/00022a4f-68a7-4cdd-a463-8209f8757992)
 
-![[Pasted image 20241122164539.png]]
+![Pasted image 20241122164539](https://github.com/user-attachments/assets/f713fde8-5ca5-41f1-9c15-617abae5da7a)
 
 Na Planta de Montagem são representados: 
 - Os circuitos integrados necessários;
@@ -68,5 +68,5 @@ Na Planta de Montagem são representados:
 - As ligações dos pinos de alimentação a 5 Volts;
 - Ligação dos pinos de massa a 0 Volts;
 
+![Pasted image 20241122164639](https://github.com/user-attachments/assets/0fa2d5ee-c424-4576-b85d-dabf53e95fea)
 
-![[Pasted image 20241122164639.png]]
