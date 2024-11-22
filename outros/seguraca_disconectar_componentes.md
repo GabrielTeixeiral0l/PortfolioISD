@@ -6,7 +6,6 @@ Por questões de **segurança**, **nunca** devemos desconectar componentes enqua
 - Curto-circuitos.
 - Risco de explosões.
 
----
 ## Analogias
 
 Aqui estão exemplos do quotidiano que ilustram a importância de desligar a energia antes de interagir com dispositivos:
@@ -26,7 +25,6 @@ Ao trocar uma lâmpada:
 - Primeiro, devemos **desligar a luz** ou o disjuntor.
 - Isto evita choques elétricos ou danos ao sistema.
 
----
 ## Regras Básicas de Segurança
 
 1. **Desligar o Equipamento**: Antes de desconectar ou manipular qualquer componente.
