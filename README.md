@@ -37,9 +37,9 @@ O portfólio está dividido em quatro partes principais:
 
 #### Dezembro 2024
 
-[![Aula 10 - 06-12-2024](https://img.shields.io/badge/Aula%209-06--12--2024-blue?style=for-the-badge)](aulas/06-12-2024.md) <br>
-[![Aula 10 - 13-12-2024](https://img.shields.io/badge/Aula%209-13--12--2024-blue?style=for-the-badge)](aulas/13-12-2024.md) <br>
-[![Aula 10 - 20-12-2024](https://img.shields.io/badge/Aula%209-20--12--2024-blue?style=for-the-badge)](aulas/20-12-2024.md) <br>
+[![Aula 10 - 06-12-2024](https://img.shields.io/badge/Aula%2010-06--12--2024-blue?style=for-the-badge)](aulas/06-12-2024.md) <br>
+[![Aula 10 - 13-12-2024](https://img.shields.io/badge/Aula%2010-13--12--2024-blue?style=for-the-badge)](aulas/13-12-2024.md) <br>
+[![Aula 10 - 20-12-2024](https://img.shields.io/badge/Aula%2010-20--12--2024-blue?style=for-the-badge)](aulas/20-12-2024.md) <br>
 
 ### Apontamentos
 
