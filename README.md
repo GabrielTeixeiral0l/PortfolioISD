@@ -50,9 +50,12 @@ O portfólio está dividido em quatro partes principais:
 [![Álgebra de Boole](https://img.shields.io/badge/Álgebra%20de%20Boole-28A745?style=for-the-badge)](apontamentos/algebra_de_boole.md) <br>
 [![Circuitos Lógicos](https://img.shields.io/badge/Circuitos%20Lógicos-28A745?style=for-the-badge)](apontamentos/circuitos_logicos.md) <br>
 [![Circuitos Integrados](https://img.shields.io/badge/Circuitos%20Integrados-28A745?style=for-the-badge)](apontamentos/circuitos_integrados.md) <br>
-[![Circuitos Combacionais](https://img.shields.io/badge/Circuitos%20Combacionais-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais.md) <br>
-[![Circuitos Combacionais - multiplexadores](https://img.shields.io/badge/Circuitos%20Combacionais--multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/multiplexadores.md) <br>
-[![Circuitos Combacionais - demultiplexadores](https://img.shields.io/badge/Circuitos%20Combacionais--demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/demultiplexadores.md) <br>
+
+#### Circuitos Combinacionais
+- [![Circuitos Combinacionais](https://img.shields.io/badge/Circuitos%20Combinacionais-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais.md)  
+  - [![Multiplexadores](https://img.shields.io/badge/Multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/multiplexadores.md)  
+  - [![Demultiplexadores](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/demultiplexadores.md)  
+
 
 
 ### Fichas
