@@ -11,7 +11,8 @@ Exemplos de circuitos combinacionais dedicados:
 - **Comparadores (Comparators)**  
 - **Somadores Binários (Binary Adders)**  
 
-![[Pasted image 20241201104327.png]]
+![Pasted image 20241201104327](https://github.com/user-attachments/assets/2e038105-75bb-4b9f-913b-db1a1733a495)
+
 
 
 
