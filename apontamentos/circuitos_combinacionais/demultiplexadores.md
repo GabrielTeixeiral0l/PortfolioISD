@@ -42,7 +42,8 @@ Os DEMUX são amplamente utilizados em:
    - Apenas uma porta AND é ativada de cada vez, dependendo da combinação das linhas de seleção.
    - Os dados de entrada são transmitidos para a saída correspondente.
 
-![[Pasted image 20241201113446.png]]
+![Pasted image 20241201113630](https://github.com/user-attachments/assets/3c861bf5-22e5-4e4c-ab62-043dd5eaee67)
+
 
 ---
 
@@ -53,7 +54,8 @@ Os DEMUX são amplamente utilizados em:
 #### Saídas:
 - A cada ciclo, os dados de entrada são enviados para uma saída diferente ($D_0$ a $D_3$) com base no estado das linhas de seleção.
 
-![[Pasted image 20241201113630.png]]
+![Pasted image 20241201113716](https://github.com/user-attachments/assets/28626ebe-6d2c-4a65-9587-8f33159d24ae)
+
 
 ## CI Demultiplexador 74HC154
 
