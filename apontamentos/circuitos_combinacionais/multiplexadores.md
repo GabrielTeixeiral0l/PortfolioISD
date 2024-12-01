@@ -17,9 +17,13 @@ Dados: $D0 = 0, D1 = 0, D2 = 1, D3 = 0$
 Seletores: $S0 = 1, S1 = 0$  
 Saída: $0$
 
-![[Pasted image 20241201104618.png]]
-![[Pasted image 20241201104828.png]]
-![[Pasted image 20241201104908.png]]
+![Pasted image 20241201104618](https://github.com/user-attachments/assets/488b3c11-afcb-4d97-b8c8-f2aeb46c3649)
+
+![Pasted image 20241201104828](https://github.com/user-attachments/assets/e0db6f52-6495-4b01-858e-e30f7e9feab5)
+
+![Pasted image 20241201104908](https://github.com/user-attachments/assets/d4ee740c-4956-473a-8850-aeaeac761b5f)
+
+
 ## Multiplexadores CI 74HC157
 
 ### Características:
@@ -28,7 +32,8 @@ Saída: $0$
   - **Nível BAIXO**: dados passam para a saída.
   - **Nível ALTO**: multiplexadores desabilitados.
 
-![[Pasted image 20241201105318.png]]
+![Pasted image 20241201105318](https://github.com/user-attachments/assets/f80e05b5-5fcb-4b98-a0d4-5adb5004dc42)
+
 ### Tabela Verdade:
 - **Strobe = H**: circuito desativado.
 - **Strobe = L**: circuito ativado.
@@ -37,7 +42,8 @@ Saída: $0$
 - **Select** seleciona uma das entradas $A$ ou $B$ - esta seleção é comum aos 4 Multiplexadores
 - A saída $Y$ reproduz a entrada selecionada
 
-![[Pasted image 20241201110108.png]]
+![Pasted image 20241201110108](https://github.com/user-attachments/assets/2b36eadb-79e7-4570-ac7e-a5a78335e4f5)
+
 
 ---
 
@@ -48,13 +54,15 @@ Saída: $0$
 - 3 linhas de seleção para endereçar qualquer uma das 8 entradas ($2^3 = 8$).
 - Disponibiliza saída de dados e o seu complemento.
 
-![[Pasted image 20241201110935.png]]
+![Pasted image 20241201110659](https://github.com/user-attachments/assets/a8db1c03-a4bd-4099-9c20-6f438ef20825)
+
 ### Exemplo:
 - Multiplexar 16 linhas de dados numa única saída:
   - Usar dois **CIs 74LS151**.
   - A entrada de habilitação atua como o bit mais significativo.
 
-![[Pasted image 20241201110659.png]]
+![Pasted image 20241201110935](https://github.com/user-attachments/assets/989845c2-cba0-47d3-81af-2ee48d1600fd)
+
 
 ## Multiplexador para Display de 7 Segmentos
 
@@ -89,4 +97,5 @@ Saída: $0$
 3. O resultado visível no display é uma alternância rápida entre 9 e 6, aparentando que ambos os números estão ativos simultaneamente.
 
 
-![[Pasted image 20241129154351.png]]
+![Pasted image 20241201113446](https://github.com/user-attachments/assets/11f916f5-9e16-4c6b-b3a0-78a8bc395798)
+
