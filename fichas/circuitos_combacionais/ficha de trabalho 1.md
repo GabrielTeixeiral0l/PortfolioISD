@@ -16,6 +16,7 @@ O 74LS151 é um circuito integrado composto 1 seletor de dados de 8 entradas
 | 1   | 0   | 1   |         D5          | 1     |
 | 1   | 1   | 0   |         D6          | 0     |
 | 1   | 1   | 1   |         D7          | 1     |
+
 A onda de saída vai alternando entre baixo e cima, conforme a sequencia das entradas de seleção.
 
 3. Descreva resumidamente a finalidade de cada um dos seguintes dispositivos vistos na Figura do slide 24: 74LS157, 74LS47 e 74LS139
