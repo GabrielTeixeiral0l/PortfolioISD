@@ -44,7 +44,6 @@ Os DEMUX são amplamente utilizados em:
 
 ![Pasted image 20241201113630](https://github.com/user-attachments/assets/3c861bf5-22e5-4e4c-ab62-043dd5eaee67)
 
-
 ---
 
 ### Exemplo Prático
@@ -53,8 +52,6 @@ Os DEMUX são amplamente utilizados em:
 - Linhas de seleção: $S_0$ e $S_1$ seguem uma sequência binária repetitiva $00, 01, 10, 11$.
 #### Saídas:
 - A cada ciclo, os dados de entrada são enviados para uma saída diferente ($D_0$ a $D_3$) com base no estado das linhas de seleção.
-
-![Pasted image 20241201113716](https://github.com/user-attachments/assets/28626ebe-6d2c-4a65-9587-8f33159d24ae)
 
 
 ## CI Demultiplexador 74HC154
@@ -69,4 +66,5 @@ Os DEMUX são amplamente utilizados em:
 - Código binário nas linhas de seleção: $1010$  
 - Entrada de dados: Nível BAIXO ($0$)  
 **Resultado:** Apenas a linha de saída correspondente ao código $1010$ será ativada.
-![[Pasted image 20241201113716.png]]
+  
+![Pasted image 20241201113716](https://github.com/user-attachments/assets/28626ebe-6d2c-4a65-9587-8f33159d24ae)
