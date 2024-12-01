@@ -45,16 +45,14 @@ O portfólio está dividido em quatro partes principais:
 
 ---
 
-[![Sistema Digital](https://img.shields.io/badge/Sistema%20Digital-28A745?style=for-the-badge)](apontamentos/sistema_digital.md)  
-[![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md)  
-[![Álgebra de Boole](https://img.shields.io/badge/Álgebra%20de%20Boole-28A745?style=for-the-badge)](apontamentos/algebra_de_boole.md)  
-[![Circuitos Lógicos](https://img.shields.io/badge/Circuitos%20Lógicos-28A745?style=for-the-badge)](apontamentos/circuitos_logicos.md)  
-[![Circuitos Integrados](https://img.shields.io/badge/Circuitos%20Integrados-28A745?style=for-the-badge)](apontamentos/circuitos_integrados.md)  
-[![Circuitos Combinacionais](https://img.shields.io/badge/Circuitos%20Combinacionais-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais.md)  
-[![Circuitos Combinacionais - Multiplexadores](https://img.shields.io/badge/Circuitos%20Combinacionais%20-%20Multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/multiplexadores.md)  
-[![Circuitos Combinacionais - Demultiplexadores](https://img.shields.io/badge/Circuitos%20Combinacionais%20-%20Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/demultiplexadores.md)
-
----
+[![Sistema Digital](https://img.shields.io/badge/Sistema%20Digital-28A745?style=for-the-badge)](apontamentos/sistema_digital.md) <br>
+[![Sistemas de Numeração](https://img.shields.io/badge/Sistemas%20de%20Numeração-28A745?style=for-the-badge)](apontamentos/sistemas_de_numeracao.md) <br>
+[![Álgebra de Boole](https://img.shields.io/badge/Álgebra%20de%20Boole-28A745?style=for-the-badge)](apontamentos/algebra_de_boole.md) <br>
+[![Circuitos Lógicos](https://img.shields.io/badge/Circuitos%20Lógicos-28A745?style=for-the-badge)](apontamentos/circuitos_logicos.md) <br>
+[![Circuitos Integrados](https://img.shields.io/badge/Circuitos%20Integrados-28A745?style=for-the-badge)](apontamentos/circuitos_integrados.md) <br>
+[![Circuitos Combacionais](https://img.shields.io/badge/Circuitos%20Combacionais-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais.md) <br>
+[![Circuitos Combacionais - multiplexadores](https://img.shields.io/badge/Circuitos%20Combacionais--multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/multiplexadores.md) <br>
+[![Circuitos Combacionais - demultiplexadores](https://img.shields.io/badge/Circuitos%20Combacionais--demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/demultiplexadores.md) <br>
 
 
 ### Fichas
