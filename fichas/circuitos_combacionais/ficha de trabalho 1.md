@@ -1,3 +1,5 @@
+# Ficha de trabalho 1 - Circuitos Combacionais &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../../README.md#indice)
+
 1. Identifique cada dispositivo a seguir: 74LS157 e 74LS151
 
 O 74LS157 é um circuito integrado composto 4 seletores de dados de 2 entradas
