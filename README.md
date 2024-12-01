@@ -52,9 +52,9 @@ O portfólio está dividido em quatro partes principais:
 [![Circuitos Integrados](https://img.shields.io/badge/Circuitos%20Integrados-28A745?style=for-the-badge)](apontamentos/circuitos_integrados.md) <br>
 
 #### Circuitos Combinacionais
-[![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais.md)  
-[![Multiplexadores](https://img.shields.io/badge/Multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/multiplexadores.md)  
-[![Demultiplexadores](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combacionais/demultiplexadores.md)  
+[![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais.md)  
+[![Multiplexadores](https://img.shields.io/badge/Multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/multiplexadores.md)  
+[![Demultiplexadores](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/demultiplexadores.md)  
 
 
 
@@ -80,9 +80,9 @@ O portfólio está dividido em quatro partes principais:
 [![Circuitos Lógicos-Ficha de trabalho 3](https://img.shields.io/badge/Circuitos%20Lógicos-Ficha%20de%20trabalho%203-orange?style=for-the-badge)](fichas/circuitos_logicos/ficha%20de%20trabalho%203.md) <br>
 [![Circuitos Lógicos-Mini-Projeto 1](https://img.shields.io/badge/Circuitos%20Lógicos-Mini%20projeto%2001-orange?style=for-the-badge)](fichas/circuitos_logicos/mini_projeto_01.md) <br>
 
-#### Circuitos Combacionais
+#### Circuitos Combinacionais
 
-[![Circuitos Combacionais-Ficha de trabalho 1](https://img.shields.io/badge/Circuitos%20Combacionais-Ficha%20de%20trabalho%201-orange?style=for-the-badge)](fichas/circuitos_combacionais/ficha%20de%20trabalho%201.md) <br>
+[![Circuitos Combacionais-Ficha de trabalho 1](https://img.shields.io/badge/Circuitos%20Combinacionais-Ficha%20de%20trabalho%201-orange?style=for-the-badge)](fichas/circuitos_combinacionais/ficha%20de%20trabalho%201.md) <br>
 
 ### Outros
 
