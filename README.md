@@ -52,11 +52,11 @@ O portfólio está dividido em quatro partes principais:
 [![Circuitos Integrados](https://img.shields.io/badge/Circuitos%20Integrados-28A745?style=for-the-badge)](apontamentos/circuitos_integrados.md) <br>
 
 #### Circuitos Combinacionais
-[![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/conceito.md)  
-[![Multiplexadores](https://img.shields.io/badge/Multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/multiplexadores.md)  
-[![Demultiplexadores](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/demultiplexadores.md)
-[![Somadores](https://img.shields.io/badge/Somadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/somadores.md)
-[![Comparadores](https://img.shields.io/badge/Comparadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/Comparadores.md)
+[![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/conceito.md) <br>
+[![Multiplexadores](https://img.shields.io/badge/Multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/multiplexadores.md) <br>
+[![Demultiplexadores](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/demultiplexadores.md) <br>
+[![Somadores](https://img.shields.io/badge/Somadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/somadores.md) <br>
+[![Comparadores](https://img.shields.io/badge/Comparadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/Comparadores.md) <br>
 
 
 
