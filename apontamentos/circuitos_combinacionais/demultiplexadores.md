@@ -29,7 +29,6 @@ Os DEMUX são amplamente utilizados em:
   - Um **MUX** é usado no emissor.
   - Um **DEMUX** é usado no recetor para separar os dados.
 
----
 
 ### Circuito DEMUX 1 para 4
 
