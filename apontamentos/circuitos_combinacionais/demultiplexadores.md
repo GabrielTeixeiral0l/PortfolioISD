@@ -21,7 +21,6 @@ Para um DEMUX de 1 para 4:
 | 1     | 0     | $D_2$            |
 | 1     | 1     | $D_3$            |
 
----
 
 ### Aplicações
 Os DEMUX são amplamente utilizados em:
@@ -43,8 +42,6 @@ Os DEMUX são amplamente utilizados em:
    - Os dados de entrada são transmitidos para a saída correspondente.
 
 ![Pasted image 20241201113630](https://github.com/user-attachments/assets/3c861bf5-22e5-4e4c-ab62-043dd5eaee67)
-
----
 
 ### Exemplo Prático
 #### Dados fornecidos:
