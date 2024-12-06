@@ -54,7 +54,9 @@ O portfólio está dividido em quatro partes principais:
 #### Circuitos Combinacionais
 [![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/conceito.md)  
 [![Multiplexadores](https://img.shields.io/badge/Multiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/multiplexadores.md)  
-[![Demultiplexadores](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/demultiplexadores.md)  
+[![Demultiplexadores](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/demultiplexadores.md)
+[![Somadores](https://img.shields.io/badge/Somadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/somadores.md)
+[![Comparadores](https://img.shields.io/badge/Comparadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/Comparadores.md)
 
 
 
@@ -83,6 +85,7 @@ O portfólio está dividido em quatro partes principais:
 #### Circuitos Combinacionais
 
 [![Circuitos Combacionais-Ficha de trabalho 1](https://img.shields.io/badge/Circuitos%20Combinacionais-Ficha%20de%20trabalho%201-orange?style=for-the-badge)](fichas/circuitos_combinacionais/ficha%20de%20trabalho%201.md) <br>
+[![Circuitos Combacionais-Ficha de trabalho 2](https://img.shields.io/badge/Circuitos%20Combinacionais-Ficha%20de%20trabalho%202-orange?style=for-the-badge)](fichas/circuitos_combinacionais/ficha%20de%20trabalho%202.md) <br>
 
 ### Outros
 
