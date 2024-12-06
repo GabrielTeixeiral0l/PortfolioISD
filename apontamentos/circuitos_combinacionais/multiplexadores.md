@@ -45,7 +45,6 @@ Saída: $0$
 ![Pasted image 20241201110108](https://github.com/user-attachments/assets/2b36eadb-79e7-4570-ac7e-a5a78335e4f5)
 
 
----
 
 ## Multiplexador de 8 Entradas (CI 74LS151)
 
@@ -87,7 +86,6 @@ Saída: $0$
 - O ciclo de alternância entre os dois dígitos repete-se na frequência da onda quadrada.
 - **Nota importante:** A frequência deve ser suficientemente alta ($\geq 30\, \text{Hz}$) para evitar cintilação visível nos displays.
 
----
 
 ### Exemplo de Aplicação
 1. Dois números BCD diferentes são aplicados às entradas do multiplexador:
