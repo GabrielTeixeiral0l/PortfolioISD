@@ -58,7 +58,10 @@ O portfólio está dividido em quatro partes principais:
 [![Somadores](https://img.shields.io/badge/Somadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/somadores.md) <br>
 [![Comparadores](https://img.shields.io/badge/Comparadores-28A745?style=for-the-badge)](apontamentos/circuitos_combinacionais/Comparadores.md) <br>
 
-
+#### Circuitos Sequenciais
+[![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/conceito.md) <br>
+[![Dispositivos de Memória](https://img.shields.io/badge/Dispositivos%20de%20Memória-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/dispositivos_de_memoria.md) <br>
+[![Latches](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/latches.md) <br>
 
 ### Fichas
 
@@ -86,6 +89,10 @@ O portfólio está dividido em quatro partes principais:
 
 [![Circuitos Combacionais-Ficha de trabalho 1](https://img.shields.io/badge/Circuitos%20Combinacionais-Ficha%20de%20trabalho%201-orange?style=for-the-badge)](fichas/circuitos_combinacionais/ficha%20de%20trabalho%201.md) <br>
 [![Circuitos Combacionais-Ficha de trabalho 2](https://img.shields.io/badge/Circuitos%20Combinacionais-Ficha%20de%20trabalho%202-orange?style=for-the-badge)](fichas/circuitos_combinacionais/ficha%20de%20trabalho%202.md) <br>
+
+#### Circuitos Sequenciais
+
+[![Circuitos Sequenciais-Ficha de trabalho 1](https://img.shields.io/badge/Circuitos%20Sequenciais-Ficha%20de%20trabalho%201-orange?style=for-the-badge)](fichas/circuitos_sequenciais/ficha%20de%20trabalho%201.md) <br>
 
 ### Outros
 
