@@ -14,8 +14,8 @@ Os circuitos sequenciais são sistemas digitais em que as saídas dependem não 
 - O estado de um circuito sequencial é determinado pelas variáveis de estado.
 - As mudanças de estado são reguladas por um sinal de relógio (clock).
   - Sinal ativo em bordos ascendentes ou descendentes, ou em níveis alto/baixo.
-- Período do relógio (T) e frequência (f) têm relação inversa: \( f = \frac{1}{T} \).
+- Período do relógio (T) e frequência (f) têm relação inversa: $f = \frac{1}{T}$.
 
 ### Exemplos
 
-- Controle remoto de TV: Permite alternar entre canais com botões que dependem do estado atual e histórico.
+- Comando da TV: Permite alternar entre canais com botões que dependem do estado atual e histórico.
