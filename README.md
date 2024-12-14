@@ -61,7 +61,7 @@ O portfólio está dividido em quatro partes principais:
 #### Circuitos Sequenciais
 [![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/conceito.md) <br>
 [![Dispositivos de Memória](https://img.shields.io/badge/Dispositivos%20de%20Memória-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/dispositivos_de_memoria.md) <br>
-[![Latches](https://img.shields.io/badge/Demultiplexadores-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/latches.md) <br>
+[![Latches](https://img.shields.io/badge/Latches-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/latches.md) <br>
 
 ### Fichas
 
