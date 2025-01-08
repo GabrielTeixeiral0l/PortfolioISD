@@ -14,7 +14,7 @@
 2. **Flip-Flop J-K**
    - Resolve o problema do estado inválido do S-R.
    - Quando J e K são ativados simultaneamente, as saídas alternam.
-   - Característica: \( Q^* = J \cdot \overline{Q} + \overline{K} \cdot Q \)
+   - Característica: $Q^* = J \cdot \overline{Q} + \overline{K} \cdot Q$
 
 3. **Flip-Flop T (Toggle)**
    - Alterna o estado em cada transição do CLK.
