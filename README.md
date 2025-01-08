@@ -62,7 +62,7 @@ O portfólio está dividido em quatro partes principais:
 [![Conceito](https://img.shields.io/badge/Conceito-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/conceito.md) <br>
 [![Dispositivos de Memória](https://img.shields.io/badge/Dispositivos%20de%20Memória-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/dispositivos_de_memoria.md) <br>
 [![Latches](https://img.shields.io/badge/Latches-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/latches.md) <br>
-[![Flip-Flops](https://img.shields.io/badge/Flip--Flops-28A745?style=for-the-badge)](apontamentos/circuitos_sequenciais/flip-flops.md) <br>
+[![Flip-Flops](https://img.shields.io/badge/Flip--Flops-28A745?style=for-the-badge)](apontamentos/circutos_sequenciais/flips-flops.md) <br>
 
 ### Fichas
 
