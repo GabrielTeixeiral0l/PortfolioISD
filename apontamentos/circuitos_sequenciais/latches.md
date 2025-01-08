@@ -1,6 +1,5 @@
 # Latches &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../../README.md#indice)
 
-## O que são Latches
 - Blocos elementares para circuitos sequenciais.
 - Alteram as saídas em qualquer momento, independentemente de sinais de relógio.
 
