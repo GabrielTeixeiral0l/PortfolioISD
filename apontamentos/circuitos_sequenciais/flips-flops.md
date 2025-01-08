@@ -1,6 +1,5 @@
 # Flip-Flops &nbsp; [![Ir para README](https://img.shields.io/badge/Indice-Verde?style=for-the-badge)](../../README.md#indice)
 
-## O que são Flip-Flops
 - Blocos elementares sequenciais mais avançados que os latches.
 - Alteram as saídas apenas em momentos específicos determinados por sinais de relógio (CLK).
 
