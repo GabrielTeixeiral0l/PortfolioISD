@@ -44,8 +44,8 @@ O portfólio está dividido em quatro partes principais:
 #### Janeiro 2025
 
 [![Aula 13 - 10-01-2025](https://img.shields.io/badge/Aula%2013-10--01--2025-blue?style=for-the-badge)](aulas/10-01-2025.md) <br>
-[![Aula 14 - 17-01-2025](https://img.shields.io/badge/Aula%2011-17--01--2025-blue?style=for-the-badge)](aulas/17-01-2025.md) <br>
-[![Aula 15 - 24-01-2025](https://img.shields.io/badge/Aula%2012-24--01--2025-blue?style=for-the-badge)](aulas/24-01-2025.md) <br>
+[![Aula 14 - 17-01-2025](https://img.shields.io/badge/Aula%2014-17--01--2025-blue?style=for-the-badge)](aulas/17-01-2025.md) <br>
+[![Aula 15 - 24-01-2025](https://img.shields.io/badge/Aula%2015-24--01--2025-blue?style=for-the-badge)](aulas/24-01-2025.md) <br>
 
 ### Apontamentos
 
